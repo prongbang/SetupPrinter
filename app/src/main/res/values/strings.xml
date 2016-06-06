@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Setup Printer</string>
+    <string name="action_settings">Settings</string>
+    <string name="printer_devices">Printer Devices</string>
+</resources>
